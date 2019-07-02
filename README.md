@@ -1,6 +1,6 @@
 # alidev-asm-bootldemo
 Assembly Bootloader Demo
-<p>Gerekenler</p><br>
+<p>Gerekenler</p>
 <code><p>- NASM</p>
 <p>- Qemu</p></code>
 <p>Nasm'ı C:/NASM konumuna kurun</p><br>
